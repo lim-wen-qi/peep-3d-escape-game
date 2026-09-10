@@ -5,7 +5,7 @@ interactive puzzles and physics-driven object interactions.
 
 ## Demo
 
-..
+https://github.com/user-attachments/assets/5a78e97d-dec4-42de-86cc-82d0b88ed04c
 
 ## About
 
