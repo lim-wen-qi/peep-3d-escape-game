@@ -42,10 +42,13 @@ University of London.
 - Cinemachine
 - Blender
 
-## Testing
+## Testing & Evaluation
 
-Conducted playtesting with 10 participants to evaluate player controls,
-physics interactions, puzzle feedback and UI usability.
+The game was playtested with 10 participants to evaluate player movement, object interaction, puzzle progression, feedback, and overall usability.
+
+Testing identified areas for improvement including occasional physics jitter, clearer interaction feedback, and opportunities to improve puzzle replayability.
+
+A more structured game-testing methodology and clearer visualisation of evaluation results would be valuable in future iterations.
 
 ## Project Context
 
