@@ -53,9 +53,9 @@ The main character, Peep, was designed and modelled in Blender before being impo
 
 ## Level Design
 
-<img width="798" height="650" alt="peep-game-level1" src="https://github.com/user-attachments/assets/1b63214a-5c89-4853-a149-45d897209c84" />
-
 The main level was assembled in Unity and consists of several connected rooms, each containing different puzzles and interactable objects. Clues and puzzle elements were placed throughout the rooms to encourage the player to explore.
+
+<img width="798" height="650" alt="peep-game-level1" src="https://github.com/user-attachments/assets/1b63214a-5c89-4853-a149-45d897209c84" />
 
 ## Testing & Evaluation
 
