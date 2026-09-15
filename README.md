@@ -17,6 +17,11 @@ progress through the game.
 The project focuses on physics-driven interaction, environmental
 puzzle-solving, and modular gameplay systems.
 
+## 3D Character Modelling
+
+<img width="1076" height="736" alt="image" src="https://github.com/user-attachments/assets/727cf44e-db32-467c-9475-aecd8e4aee57" />
+The main character, Peep, was designed and modelled in Blender before being imported into Unity for use in the game.
+
 ## Key Features
 
 - Physics-based object grabbing and manipulation
