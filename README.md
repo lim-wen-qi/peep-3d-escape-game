@@ -19,8 +19,21 @@ puzzle-solving, and modular gameplay systems.
 
 ## 3D Character Modelling
 
-<img width="1076" height="736" alt="image" src="https://github.com/user-attachments/assets/727cf44e-db32-467c-9475-aecd8e4aee57" />
+<img width="967" height="680" alt="image" src="https://github.com/user-attachments/assets/a63f3554-b182-4c07-9203-afcadca86e2e" />
+
 The main character, Peep, was designed and modelled in Blender before being imported into Unity for use in the game.
+
+## Level Design
+
+<img width="798" height="650" alt="peep-game-level1" src="https://github.com/user-attachments/assets/1b63214a-5c89-4853-a149-45d897209c84" />
+
+The main playable environment was assembled in Unity as an indoor escape-room setting containing multiple rooms and puzzle areas. The layout was structured around exploration and puzzle progression, with interactable objects, environmental clues, and gameplay triggers distributed throughout the environment.
+
+### Level Expansion
+
+<img width="798" height="650" alt="peep-game-level2" src="https://github.com/user-attachments/assets/b4d51c6a-28ba-441e-a3c3-8b525cfd2e73" />
+
+Development also began on a second, expanded level with additional rooms and a larger environment. The level remained incomplete at the end of the project.
 
 ## Key Features
 
