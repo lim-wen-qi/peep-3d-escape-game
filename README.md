@@ -76,5 +76,5 @@ If developed further, I would use a more structured testing process and collect 
 ## Project Context
 
 **Individual Final Year Project**  
-Bachelor of Science in Computer Science  
+Bachelor of Science (Honours) in Computer Science  
 University of London
